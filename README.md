@@ -1,2 +1,3 @@
 # datasciencecoursera
-## project: creating repo - Coursera Data Scientist's Toolbox Project 
+## project: creating repo 
+Coursera Data Scientist's Toolbox Project 
